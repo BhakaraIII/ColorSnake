@@ -1,0 +1,748 @@
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.exe
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.deps.json
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.runtimeconfig.json
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.runtimeconfig.dev.json
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.pdb
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.System.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Window.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\FLAC
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\A\FLAC
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\A\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\Current\FLAC
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\Current\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\OpenAL
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\A\OpenAL
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\A\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\Current\OpenAL
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\Current\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\A\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\A\freetype
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\Current\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\Current\freetype
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\freetype
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio.2.5.2
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics.2.5.2
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system.2.5.2
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window.2.5.2
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.1.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.1.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.1.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.1
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.1.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.dylib
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\A\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\A\ogg
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\Current\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\Current\ogg
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\ogg
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\A\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\A\vorbis
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\Current\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\Current\vorbis
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\vorbis
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\A\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\A\vorbisenc
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\Current\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\Current\vorbisenc
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\vorbisenc
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\A\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\A\vorbisfile
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\Current\Resources\Info.plist
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\Current\vorbisfile
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\vorbisfile
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-audio.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-graphics.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-system.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-window.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-audio.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-graphics.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-system.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-window.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.AssemblyReference.cache
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.AssemblyInfoInputs.cache
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.AssemblyInfo.cs
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.CoreCompileInputs.cache
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.CopyComplete
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.dll
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.pdb
+D:\repos\SFMLMonThirs\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.genruntimeconfig.cache
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.AssemblyInfoInputs.cache
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.AssemblyInfo.cs
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.CoreCompileInputs.cache
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.pdb
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.exe
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.deps.json
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.runtimeconfig.json
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.runtimeconfig.dev.json
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.pdb
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\FLAC
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\A\FLAC
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\Current\FLAC
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\OpenAL
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\A\OpenAL
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\Current\OpenAL
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\A\freetype
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\Current\freetype
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\freetype
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio.2.5.2
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics.2.5.2
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system.2.5.2
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window.2.5.2
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.1.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.1.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.1.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.1.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\A\ogg
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\Current\ogg
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\ogg
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\A\vorbis
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\Current\vorbis
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\vorbis
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\A\vorbisenc
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\Current\vorbisenc
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\vorbisenc
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\A\vorbisfile
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\Current\vorbisfile
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\vorbisfile
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-audio.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-graphics.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-system.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-window.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-audio.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-graphics.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-system.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-window.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.CopyComplete
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.genruntimeconfig.cache
+C:\Users\uchenik\Desktop\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.AssemblyReference.cache
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.exe
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.deps.json
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.runtimeconfig.json
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.runtimeconfig.dev.json
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.pdb
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.System.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Window.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\FLAC
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\A\FLAC
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\Current\FLAC
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\OpenAL
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\A\OpenAL
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\Current\OpenAL
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\A\freetype
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\Current\freetype
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\freetype
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio.2.5.2
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics.2.5.2
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system.2.5.2
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window.2.5.2
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.1.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.1.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.1.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.1
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.1.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.dylib
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\A\ogg
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\Current\ogg
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\ogg
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\A\vorbis
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\Current\vorbis
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\vorbis
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\A\vorbisenc
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\Current\vorbisenc
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\vorbisenc
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\A\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\A\vorbisfile
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\Current\Resources\Info.plist
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\Current\vorbisfile
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\vorbisfile
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-audio.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-graphics.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-system.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-window.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-audio.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-graphics.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-system.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-window.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.AssemblyReference.cache
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.AssemblyInfoInputs.cache
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.AssemblyInfo.cs
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.CoreCompileInputs.cache
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.CopyComplete
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.dll
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.pdb
+C:\Users\uchenik\Desktop\SFMLMonThirs (2)\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.genruntimeconfig.cache
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.exe
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.deps.json
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.runtimeconfig.json
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.runtimeconfig.dev.json
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFMLMonThirs.pdb
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Audio.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Graphics.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.System.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\SFML.Window.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libcsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-audio.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-graphics.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-system.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libsfml-window.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libcsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-audio.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-graphics.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-system.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libsfml-window.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libcsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-audio.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-graphics.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-system.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libsfml-window.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libcsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-audio.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-graphics.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-system.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libsfml-window.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libcsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-audio.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-graphics.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-system.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libsfml-window.so.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\FLAC
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\A\FLAC
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\A\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\Current\FLAC
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\FLAC.framework\Versions\Current\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\OpenAL
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\A\OpenAL
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\A\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\Current\OpenAL
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\OpenAL.framework\Versions\Current\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\A\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\A\freetype
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\Current\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\Versions\Current\freetype
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\freetype.framework\freetype
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-audio.2.5.2
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-graphics.2.5.2
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-system.2.5.2
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libcsfml-window.2.5.2
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.1.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.2.5.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-audio.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.1.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.2.5.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-graphics.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.1.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.2.5.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-system.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.1
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.1.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.2.5.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libsfml-window.dylib
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\A\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\A\ogg
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\Current\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\Versions\Current\ogg
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\ogg.framework\ogg
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\A\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\A\vorbis
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\Current\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\Versions\Current\vorbis
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbis.framework\vorbis
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\A\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\A\vorbisenc
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\Current\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\Versions\Current\vorbisenc
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisenc.framework\vorbisenc
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\A\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\A\vorbisfile
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\Current\Resources\Info.plist
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\Versions\Current\vorbisfile
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\vorbisfile.framework\vorbisfile
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-audio.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-graphics.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-system.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\csfml-window.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\openal32.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-audio.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-graphics.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-system.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\csfml-window.dll
+D:\SFMLMonThirs\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\openal32.dll
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.AssemblyReference.cache
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.GeneratedMSBuildEditorConfig.editorconfig
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.AssemblyInfoInputs.cache
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.AssemblyInfo.cs
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.CoreCompileInputs.cache
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.csproj.CopyComplete
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.dll
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.pdb
+D:\SFMLMonThirs\obj\Debug\netcoreapp3.1\SFMLMonThirs.genruntimeconfig.cache

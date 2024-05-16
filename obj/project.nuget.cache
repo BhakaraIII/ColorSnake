@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Y3FfNDwvXO9LuIQICBfUso1UNXY8UaP3PYdM/pV1pzLEG8VrLjaLh57r4k0ZkGe/q+HL/6sEMLygbW0GFEvwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Documents\\SFMLMonThirs\\SFMLMonThirs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\csfml\\2.5.2\\csfml.2.5.2.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\sfml.audio\\2.5.1\\sfml.audio.2.5.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\sfml.graphics\\2.5.1\\sfml.graphics.2.5.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\sfml.net\\2.5.1\\sfml.net.2.5.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\sfml.system\\2.5.1\\sfml.system.2.5.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\sfml.window\\2.5.1\\sfml.window.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
